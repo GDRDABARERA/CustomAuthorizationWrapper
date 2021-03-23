@@ -1,0 +1,6 @@
+org/wso2/carbon/tomcat/extension/valve/CustomRequestWrapper.class
+org/wso2/carbon/tomcat/extension/valve/CustomRequestWrapper$1.class
+org/wso2/carbon/tomcat/extension/valve/internal/CustomValveAuthzServiceComponent.class
+org/wso2/carbon/tomcat/extension/valve/authz/CustomAuthzHandler.class
+org/wso2/carbon/tomcat/extension/valve/ResponseHeader.class
+org/wso2/carbon/tomcat/extension/valve/CustomValve.class

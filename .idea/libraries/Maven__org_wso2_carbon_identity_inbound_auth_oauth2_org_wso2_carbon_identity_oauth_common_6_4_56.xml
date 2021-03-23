@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.identity.inbound.auth.oauth2:org.wso2.carbon.identity.oauth.common:6.4.56">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/inbound/auth/oauth2/org.wso2.carbon.identity.oauth.common/6.4.56/org.wso2.carbon.identity.oauth.common-6.4.56.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/inbound/auth/oauth2/org.wso2.carbon.identity.oauth.common/6.4.56/org.wso2.carbon.identity.oauth.common-6.4.56-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/inbound/auth/oauth2/org.wso2.carbon.identity.oauth.common/6.4.56/org.wso2.carbon.identity.oauth.common-6.4.56-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

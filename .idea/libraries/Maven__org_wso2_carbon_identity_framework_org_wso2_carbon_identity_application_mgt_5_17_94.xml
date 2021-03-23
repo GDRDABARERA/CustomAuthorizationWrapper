@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.identity.framework:org.wso2.carbon.identity.application.mgt:5.17.94">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt/5.17.94/org.wso2.carbon.identity.application.mgt-5.17.94.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt/5.17.94/org.wso2.carbon.identity.application.mgt-5.17.94-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.application.mgt/5.17.94/org.wso2.carbon.identity.application.mgt-5.17.94-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
